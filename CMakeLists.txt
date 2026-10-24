@@ -1,12 +1,12 @@
 cmake_minimum_required(VERSION 3.25)
 
 project(
-        Template
+        FastTravelSpeedTweaks
         VERSION 0.0.1
         LANGUAGES CXX)
 set(PROJECT_LICENSE "The project license")
 set(PROJECT_FRIENDLY_NAME ${PROJECT_NAME})
-set(PROJECT_LONG_NAME "Template CommonLibSSE-NG")
+set(PROJECT_LONG_NAME "Fast Travel Speed Tweaks")
 set(PROJECT_DESCRIPTION ${PROJECT_LONG_NAME})
 set(PROJECT_COPYRIGHT "Copyright")
 
